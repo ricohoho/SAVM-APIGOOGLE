@@ -1,0 +1,2 @@
+   d:\DATA\e.fassel\apache-maven-3.6.3\bin\mvn install:install-file -Dfile=D:\DATA\e.fassel\IdeaProjects\SAVM\APIGOOGLE\build\libs\APIGOOGLE-1.0.jar -DgroupId=ricohoho.googleX -DartifactId=api-googleX -Dversion=1.7.0 -Dpackaging=JAR    -DgeneratePom=true
+   

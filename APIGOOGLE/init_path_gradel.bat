@@ -1,0 +1,1 @@
+set PATH=%PATH%;C:\gradle-7.6\bin
