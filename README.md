@@ -1,2 +1,2 @@
 # SAVM-APIGOOGLE
-Lib SAVM pour ien vers GOOGLE SpreedSheet
+Lib SAVM pour lien vers GOOGLE SpreedSheet
